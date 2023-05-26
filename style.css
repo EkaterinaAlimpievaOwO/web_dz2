@@ -1,0 +1,33 @@
+h1{
+    color: rgb(219, 40, 103);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+body{ 
+    background: #fbdddd;
+}
+
+
+a{
+    color:rgb(12, 153, 230)
+}
+
+
+p{  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 50px;
+    line-height: 2;
+    
+}
+
+
+ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 50px;
+    line-height: 2;
+}
+
+.img_style{
+    margin: 20px 50px;
+}
